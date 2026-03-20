@@ -1,0 +1,50 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Eclipse
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IntelliJ
+*.iml
+out/
+
+# Maven Eclipse plugin
+.mvn
+mvnw
+mvnw.cmd
+
+# Node.js
+node_modules/
+
+# Gradle
+.gradle
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Database
+postgres_data/
